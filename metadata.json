@@ -1,0 +1,6 @@
+{
+  "name": "Smart Retail BI & Sales Analytics",
+  "description": "A supermarket management and sales analytics system with barcode billing, profit analysis, and Power BI integration.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
